@@ -1,23 +1,23 @@
 # Hi, I'm Kenny 👋
 
-Junior software developer with a frontend foundation, currently transitioning into backend engineering and system design.
+Junior software developer who started with frontend development and is expanding into backend engineering and system design.
 
 ---
 
 ## 🚀 What I'm Working On
 
 - Building a **Blog CMS system** using FastAPI with a modular monolith architecture  
-- Strengthening backend fundamentals through real project implementation  
-- Improving system thinking and clean architecture practices  
+- Expanding backend capabilities through real project implementation  
+- Developing full-stack understanding with clean architecture practices  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
+**Frontend Foundations:**  
 HTML, CSS, JavaScript, React  
 
-**Backend (Learning):**  
+**Backend (Expanding Into):**  
 FastAPI, SQLAlchemy, REST APIs, data validation  
 
 **Tools:**  
