@@ -29,7 +29,7 @@ Git, GitHub, Vite
 
 - **Blog CMS System** — Backend-focused project with modular architecture  
 - **Career Recommendation Web App** — Team project with data-driven logic  
-- **Mini Marketplace** — React app with filtering and API integration  
+- **Product Page** — React app with filtering and API integration  
 
 ---
 
