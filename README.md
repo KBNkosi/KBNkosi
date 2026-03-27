@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Kenny 👋
 
-<!--
-**KBNkosi/KBNkosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior software developer with a frontend foundation, currently transitioning into backend engineering and system design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- Building a **Blog CMS system** using FastAPI with a modular monolith architecture  
+- Strengthening backend fundamentals through real project implementation  
+- Improving system thinking and clean architecture practices  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+HTML, CSS, JavaScript, React  
+
+**Backend (Learning):**  
+FastAPI, SQLAlchemy, REST APIs, data validation  
+
+**Tools:**  
+Git, GitHub, Vite  
+
+---
+
+## 📌 Featured Projects
+
+- **Blog CMS System** — Backend-focused project with modular architecture  
+- **Career Recommendation Web App** — Team project with data-driven logic  
+- **Mini Marketplace** — React app with filtering and API integration  
+
+---
+
+## 📫 Contact
+
+- Email: nkosikenny9@gmail.com  
+- LinkedIn: www.linkedin.com/in/kennynkosi 
+- Portfolio: [my-portfolio](https://kbnkosi.github.io/my-portfolio/)
