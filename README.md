@@ -1,67 +1,123 @@
-# Hi, I'm Kenny 👋
+# Hi, I'm Kenny Nkosi 👋
 
-Software developer focused on building web applications and backend systems.
+Software Developer focused on building web applications, workflow automation systems, marketplaces, and customer-facing software.
 
-I started with frontend development using React and JavaScript and am currently deepening my backend engineering skills through FastAPI, API design, testing, databases, and software architecture.
+My work spans frontend and backend development, with experience building recommendation platforms, service discovery applications, e-commerce experiences, community-driven systems, and AI-assisted workflow automation tools.
 
-## Current Focus
+Currently focused on backend engineering, API design, and building reliable systems using Python and FastAPI.
 
-- Building a Clinic Booking System with FastAPI
-- Learning backend architecture through real-world projects
-- Improving system design and software engineering fundamentals
-- Developing stronger problem-solving and data structures skills
+---
 
-## Tech Stack
+## What I Build
+
+- Workflow automation systems
+- Marketplace and service discovery platforms
+- Recommendation and decision-support applications
+- Customer-facing web applications
+- Backend APIs and business workflow systems
+
+---
+
+## Featured Projects
+
+### AI-Assisted Appointment Booking Platform
+
+A backend platform designed for AI-powered appointment scheduling in healthcare environments.
+
+**Highlights**
+- FastAPI and PostgreSQL
+- Dynamic availability calculation
+- Appointment conflict prevention
+- Idempotent booking workflows
+- Repository and service-layer architecture
+- AI voice assistant integration readiness
+
+---
+
+### NeighborTrust
+
+A community-driven service discovery platform that helps users find trusted local service providers through recommendations and structured provider profiles.
+
+**Highlights**
+- Service discovery workflows
+- Community recommendations
+- AI-assisted provider search
+- React and Tailwind CSS
+- Product-focused user experience
+
+---
+
+### Career Guidance Platform
+
+A recommendation platform developed as part of a university capstone project to help students explore career paths through personality assessments and educational datasets.
+
+**Highlights**
+- Recommendation logic
+- User research
+- Personality-based assessments
+- Educational data structuring
+- Collaborative team development
+
+---
+
+### Founder-Led Marketplace MVP
+
+Collaborated with a startup founder and development team to build a B2B marketplace MVP for product validation and investor discussions.
+
+**Highlights**
+- Frontend development
+- Product management interfaces
+- Supabase integration
+- Startup product delivery
+- Cross-functional collaboration
+
+---
+
+## Technologies
 
 ### Frontend
+
 - HTML
 - CSS
 - JavaScript
 - React
+- Tailwind CSS
+- Vite
 
 ### Backend
+
+- Python
 - FastAPI
 - SQLAlchemy
+- PostgreSQL
 - REST APIs
 - Pydantic
 
-### Tools
+### Tools & Platforms
+
 - Git
 - GitHub
-- Vite
-
-## Featured Projects
-
-### Clinic Booking System
-Backend application built with FastAPI featuring:
-
-- Modular monolith architecture
-- Repository pattern
-- Service layer architecture
-- SQLAlchemy ORM
-- Appointment scheduling workflows
-- Domain-driven business rules
-- RESTful API design
-- Automated testing
-
-### Career Recommendation Web App
-Team project focused on helping students explore career options through data-driven recommendations.
-
-### Product Page
-React application featuring API integration, filtering, and responsive UI design.
-
-## Currently Learning
-
-- Backend engineering
-- System design fundamentals
-- Database design
-- Software architecture
-
+- Supabase
+- AWS Cloud Foundations
+- Postman
 
 ---
 
-## 📫 Contact
+## Current Focus
 
-- Email: nkosikenny9@gmail.com  
-- LinkedIn: www.linkedin.com/in/kennynkosi 
-- Portfolio: [my-portfolio](https://kbnkosi.github.io/my-portfolio/)
+- Completing an AI-assisted appointment booking platform
+- Deepening backend engineering and API design skills
+- Strengthening software architecture and system design capabilities
+- Expanding experience in workflow automation and AI-enabled applications
+
+---
+
+## Connect
+
+📧 **Email:** nkosikenny9@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/kennynkosi
+
+🌐 **Portfolio:** PORTFOLIO_LINK
+
+📂 **GitHub Projects:** Explore the repositories below for project documentation, architecture decisions, and implementation details.
