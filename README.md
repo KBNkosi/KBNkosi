@@ -2,7 +2,7 @@
 
 Software Developer focused on building web applications, workflow automation systems, marketplaces, and customer-facing software.
 
-My work spans frontend and backend development, with experience building recommendation platforms, service discovery applications, e-commerce experiences, community-driven systems, and AI-assisted workflow automation tools.
+My work spans frontend and backend development, with experience building recommendation systems, service discovery applications, e-commerce projects, community platforms, and workflow automation software.
 
 Currently focused on backend engineering, API design, and building reliable systems using Python and FastAPI.
 
@@ -11,7 +11,7 @@ Currently focused on backend engineering, API design, and building reliable syst
 ## What I Build
 
 - Workflow automation systems
-- Marketplace and service discovery platforms
+- Service discovery and marketplace applications
 - Recommendation and decision-support applications
 - Customer-facing web applications
 - Backend APIs and business workflow systems
@@ -22,7 +22,7 @@ Currently focused on backend engineering, API design, and building reliable syst
 
 ### AI-Assisted Appointment Booking Platform
 
-A backend platform designed for AI-powered appointment scheduling in healthcare environments.
+A backend scheduling system designed to automate appointment booking through availability calculation, conflict detection, and workflow automation.
 
 **Highlights**
 - FastAPI and PostgreSQL
@@ -42,8 +42,7 @@ A community-driven service discovery platform that helps users find trusted loca
 - Service discovery workflows
 - Community recommendations
 - AI-assisted provider search
-- React and Tailwind CSS
-- Product-focused user experience
+
 
 ---
 
@@ -99,7 +98,6 @@ Collaborated with a startup founder and development team to build a B2B marketpl
 - GitHub
 - Supabase
 - AWS Cloud Foundations
-- Postman
 
 ---
 
