@@ -116,6 +116,6 @@ Collaborated with a startup founder and development team to build a B2B marketpl
 
 💼 **LinkedIn:** https://www.linkedin.com/in/kennynkosi
 
-🌐 **Portfolio:** PORTFOLIO_LINK
+🌐 **Portfolio:**  [Kenny Nkosi Portfolio](https://kbnkosi-business-platform-builder.kbnkosi.workers.dev/)
 
 📂 **GitHub Projects:** Explore the repositories below for project documentation, architecture decisions, and implementation details.
