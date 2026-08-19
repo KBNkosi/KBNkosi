@@ -6,6 +6,7 @@ I like understanding how people, businesses, and processes work, identifying wha
 
 I'm particularly interested in the intersection between technology and real-world business problems.
 
+
 ## How I Work
 
 I enjoy the process of:
@@ -13,6 +14,7 @@ I enjoy the process of:
 **Understanding the problem → Breaking it down → Building it → Testing it → Improving it**
 
 I learn heavily through practical projects and experimentation, and I'm interested in understanding not just how to build something, but why it should exist and whether it actually solves the problem.
+
 
 ## Tech Stack
 
@@ -39,6 +41,7 @@ I learn heavily through practical projects and experimentation, and I'm interest
 - Git
 - GitHub
 - FlutterFlow
+  
 
 ## Featured Projects
 
@@ -56,6 +59,7 @@ A university capstone project that uses assessment results and structured educat
 A quotation-based marketplace for African businesses, developed in a startup environment for an investor-focused prototype.
 
 **FlutterFlow · Supabase**
+
 
 ## What I'm Looking For
 
